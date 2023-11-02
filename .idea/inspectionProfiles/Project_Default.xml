@@ -1,0 +1,43 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MavenPackageUpdate" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="excludeList">
+        <list>
+          <option value="com.google.api-client:google-api-client" />
+          <option value="com.google.apis:google-api-services-oauth2" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-databind" />
+          <option value="com.google.http-client:google-http-client-jackson2" />
+          <option value="com.google.oauth-client:google-oauth-client" />
+          <option value="joda-time:joda-time" />
+          <option value="junit:junit" />
+          <option value="org.apache.commons:commons-lang3" />
+          <option value="org.apache.httpcomponents:httpclient" />
+          <option value="org.apache.logging.log4j:log4j-api" />
+          <option value="org.apache.logging.log4j:log4j-core" />
+          <option value="org.apache.poi:poi" />
+          <option value="org.apache.poi:poi-ooxml" />
+          <option value="org.mongodb.morphia:morphia" />
+          <option value="org.mongodb:mongo-java-driver" />
+          <option value="postgresql:postgresql" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
